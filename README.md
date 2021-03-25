@@ -8,4 +8,4 @@ The major aim is to perform clustering analysis using algorithms like hClust,PAM
 <h2><center> Dataset download </center></h2>
 The dataset can be downloaded from the link: [https://archive.ics.uci.edu/ml/datasets/Wholesale+customers]
 <h2><center> Output file </center></h2>
-K Means clustering is used to cluster the data. The data along with which cluster they belong to is available in `Clustered dataset.csv` file.
+K Means clustering is used to cluster the data. The data along with which cluster they belong to is available in `Clustered_dataset.csv` file.
